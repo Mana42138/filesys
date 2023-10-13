@@ -1,6 +1,6 @@
 import json
 
-def readfile(data_file : str):
+def read(data_file : str):
     """
         data_file: The file path you want to read.
     """
